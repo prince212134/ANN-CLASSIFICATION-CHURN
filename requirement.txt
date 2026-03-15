@@ -1,4 +1,4 @@
-tensorflow
+import tensorflow as tf
 pandas
 numpy
 scikit-learn
